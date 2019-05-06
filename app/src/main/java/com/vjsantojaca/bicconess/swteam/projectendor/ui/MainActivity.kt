@@ -1,7 +1,8 @@
-package com.vjsantojaca.bicconess.swteam.projectendor
+package com.vjsantojaca.bicconess.swteam.projectendor.ui
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.vjsantojaca.bicconess.swteam.projectendor.R
 
 class MainActivity : AppCompatActivity() {
 
